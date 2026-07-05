@@ -830,7 +830,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/regia-colheita-doc-alentejo-tinto/p</link>
-    <inventory-count>5715</inventory-count>
+    <inventory-count>5713</inventory-count>
     <product-id>12209</product-id>
   </product>
   <product>
@@ -1730,7 +1730,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/elegido-tannat-e-merlot/p</link>
-    <inventory-count>5653</inventory-count>
+    <inventory-count>5651</inventory-count>
     <product-id>25017</product-id>
   </product>
   <product>
@@ -2200,7 +2200,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/diaz-bayo-4u/p</link>
-    <inventory-count>640</inventory-count>
+    <inventory-count>632</inventory-count>
     <product-id>14168</product-id>
   </product>
   <product>
@@ -2240,7 +2240,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/petit-vega-8-meses/p</link>
-    <inventory-count>7234</inventory-count>
+    <inventory-count>7226</inventory-count>
     <product-id>14173</product-id>
   </product>
   <product>
@@ -4380,7 +4380,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/oh01-riesling-meio-doce-/p</link>
-    <inventory-count>48</inventory-count>
+    <inventory-count>46</inventory-count>
     <product-id>21724</product-id>
   </product>
   <product>
@@ -5850,7 +5850,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porto-burton-s-ruby/p</link>
-    <inventory-count>367</inventory-count>
+    <inventory-count>364</inventory-count>
     <product-id>12314</product-id>
   </product>
   <product>
@@ -6110,7 +6110,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/montes-toscanini-reserva-familiar-cabernet-sauvignon/p</link>
-    <inventory-count>429</inventory-count>
+    <inventory-count>428</inventory-count>
     <product-id>35084</product-id>
   </product>
   <product>
@@ -7430,7 +7430,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-dubourdieu-liaison-tinto/p</link>
-    <inventory-count>229</inventory-count>
+    <inventory-count>228</inventory-count>
     <product-id>21573</product-id>
   </product>
 </vivino-product-list>
