@@ -780,7 +780,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-joao-portugal-ramos-alvarinho-doc/p</link>
-    <inventory-count>25</inventory-count>
+    <inventory-count>24</inventory-count>
     <product-id>12181</product-id>
   </product>
   <product>
@@ -900,7 +900,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/alias-tinto/p</link>
-    <inventory-count>87</inventory-count>
+    <inventory-count>86</inventory-count>
     <product-id>12221</product-id>
   </product>
   <product>
@@ -910,7 +910,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/alias-branco-de-outrora/p</link>
-    <inventory-count>177</inventory-count>
+    <inventory-count>176</inventory-count>
     <product-id>12222</product-id>
   </product>
   <product>
@@ -1070,7 +1070,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/portal-do-fidalgo-alvarinho/p</link>
-    <inventory-count>69</inventory-count>
+    <inventory-count>68</inventory-count>
     <product-id>13032</product-id>
   </product>
   <product>
@@ -2080,7 +2080,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/bodega-vieja-suave-tinto/p</link>
-    <inventory-count>1840</inventory-count>
+    <inventory-count>1836</inventory-count>
     <product-id>14204</product-id>
   </product>
   <product>
@@ -2260,7 +2260,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/petit-vega-8-meses/p</link>
-    <inventory-count>4004</inventory-count>
+    <inventory-count>4002</inventory-count>
     <product-id>14173</product-id>
   </product>
   <product>
@@ -2270,7 +2270,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-petit-vega-28-meses/p</link>
-    <inventory-count>1300</inventory-count>
+    <inventory-count>1298</inventory-count>
     <product-id>14175</product-id>
   </product>
   <product>
@@ -4750,7 +4750,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-tabali-pedregoso-gran-reserva-pinot-noir-tinto/p</link>
-    <inventory-count>447</inventory-count>
+    <inventory-count>446</inventory-count>
     <product-id>23519</product-id>
   </product>
   <product>
@@ -4770,7 +4770,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-tabali-pedregoso-gran-reserva-chardonnay/p</link>
-    <inventory-count>351</inventory-count>
+    <inventory-count>350</inventory-count>
     <product-id>23520</product-id>
   </product>
   <product>
@@ -4880,7 +4880,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-tabali-pedregoso-gran-reserva-cabernet-sauvignon/p</link>
-    <inventory-count>56</inventory-count>
+    <inventory-count>52</inventory-count>
     <product-id>23517</product-id>
   </product>
   <product>
@@ -7580,7 +7580,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/petit-vega-18-meses/p</link>
-    <inventory-count>959</inventory-count>
+    <inventory-count>957</inventory-count>
     <product-id>14174</product-id>
   </product>
   <product>
