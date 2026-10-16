@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <vivino-product-list>
 	<meta-data>
-		<feed-generation-date>2026-10-16T17:01:45.362215</feed-generation-date>
+		<feed-generation-date>2026-10-16T18:00:02.797109</feed-generation-date>
 	</meta-data>
 	<product>
 		<product-name>Cantina Bennati Bardolino Cornale 2022  Red</product-name>
@@ -400,7 +400,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/corbelli-nero-d-avola/p</link>
-		<inventory-count>2409</inventory-count>
+		<inventory-count>2406</inventory-count>
 		<product-id>11838</product-id>
 	</product>
 	<product>
@@ -1160,7 +1160,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/pata-negra-oro/p</link>
-		<inventory-count>22105</inventory-count>
+		<inventory-count>22099</inventory-count>
 		<product-id>14055</product-id>
 	</product>
 	<product>
@@ -3290,7 +3290,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/porteno-cabernet-sauvignon/p</link>
-		<inventory-count>8384</inventory-count>
+		<inventory-count>8372</inventory-count>
 		<product-id>11576</product-id>
 	</product>
 	<product>
@@ -6010,7 +6010,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/bodega-vieja-sauvignon-blanc/p</link>
-		<inventory-count>7401</inventory-count>
+		<inventory-count>7395</inventory-count>
 		<product-id>14200</product-id>
 	</product>
 	<product>
@@ -7080,7 +7080,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-santa-carolina-reservado-branco-suave/p</link>
-		<inventory-count>5295</inventory-count>
+		<inventory-count>5289</inventory-count>
 		<product-id>23121</product-id>
 	</product>
 	<product>
@@ -7090,7 +7090,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-santa-carolina-reservado-chardonnay/p</link>
-		<inventory-count>28972</inventory-count>
+		<inventory-count>28948</inventory-count>
 		<product-id>23078</product-id>
 	</product>
 	<product>
@@ -7580,7 +7580,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/petit-vega-18-meses/p</link>
-		<inventory-count>10838</inventory-count>
+		<inventory-count>10837</inventory-count>
 		<product-id>14174</product-id>
 	</product>
 	<product>
@@ -7680,7 +7680,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/champagne-mandois-blanc-de-blancs/p</link>
-		<inventory-count>367</inventory-count>
+		<inventory-count>307</inventory-count>
 		<product-id>14178</product-id>
 	</product>
 	<product>
@@ -7690,7 +7690,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/champagne-mandois-blanc-de-noirs/p</link>
-		<inventory-count>361</inventory-count>
+		<inventory-count>301</inventory-count>
 		<product-id>14191</product-id>
 	</product>
 	<product>
@@ -7700,7 +7700,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/champagne-mandois-victor-blanc-de-blancs/p</link>
-		<inventory-count>84</inventory-count>
+		<inventory-count>72</inventory-count>
 		<product-id>14241</product-id>
 	</product>
 	<product>
