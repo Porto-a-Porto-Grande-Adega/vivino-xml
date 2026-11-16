@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <vivino-product-list>
 	<meta-data>
-		<feed-generation-date>2026-11-13T18:00:04.861749</feed-generation-date>
+		<feed-generation-date>2026-11-16T18:00:04.732214</feed-generation-date>
 	</meta-data>
 	<product>
 		<product-name>Cantina Bennati Bardolino Cornale 2024  Red</product-name>
@@ -240,7 +240,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/luccarelli-negroamaro-igp/p</link>
-		<inventory-count>455</inventory-count>
+		<inventory-count>449</inventory-count>
 		<product-id>11427</product-id>
 	</product>
 	<product>
@@ -290,7 +290,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/campo-marina-malvasia-nera-salento/p</link>
-		<inventory-count>27</inventory-count>
+		<inventory-count>15</inventory-count>
 		<product-id>11445</product-id>
 	</product>
 	<product>
@@ -380,7 +380,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/corbelli-primitivo/p</link>
-		<inventory-count>8199</inventory-count>
+		<inventory-count>8163</inventory-count>
 		<product-id>11836</product-id>
 	</product>
 	<product>
@@ -390,7 +390,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/corbelli-sangiovese/p</link>
-		<inventory-count>3803</inventory-count>
+		<inventory-count>3689</inventory-count>
 		<product-id>11837</product-id>
 	</product>
 	<product>
@@ -400,7 +400,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/corbelli-nero-d-avola/p</link>
-		<inventory-count>1228</inventory-count>
+		<inventory-count>1202</inventory-count>
 		<product-id>11838</product-id>
 	</product>
 	<product>
@@ -410,7 +410,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/corbelli-montepulciano/p</link>
-		<inventory-count>1865</inventory-count>
+		<inventory-count>1835</inventory-count>
 		<product-id>11839</product-id>
 	</product>
 	<product>
@@ -420,7 +420,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-corbelli-pinot-grigio/p</link>
-		<inventory-count>13464</inventory-count>
+		<inventory-count>13098</inventory-count>
 		<product-id>11840</product-id>
 	</product>
 	<product>
@@ -430,7 +430,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/corbelli-chianti-docg/p</link>
-		<inventory-count>260</inventory-count>
+		<inventory-count>102</inventory-count>
 		<product-id>11841</product-id>
 	</product>
 	<product>
@@ -440,7 +440,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/forte-ambrone-etichetta-nera-igt-toscana/p</link>
-		<inventory-count>6480</inventory-count>
+		<inventory-count>6414</inventory-count>
 		<product-id>11843</product-id>
 	</product>
 	<product>
@@ -450,7 +450,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-forte-ambrone-vino-rosso/p</link>
-		<inventory-count>2730</inventory-count>
+		<inventory-count>2658</inventory-count>
 		<product-id>11844</product-id>
 	</product>
 	<product>
@@ -520,18 +520,8 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/porto-messias-ruby/p</link>
-		<inventory-count>8065</inventory-count>
+		<inventory-count>8063</inventory-count>
 		<product-id>12051</product-id>
-	</product>
-	<product>
-		<product-name>Justino's Fortified 3 Anos Dessert NV</product-name>
-		<price>127.9</price>
-		<quantity-is-minimum>false</quantity-is-minimum>
-		<bottle_size>750 ml</bottle_size>
-		<bottle_quantity>1</bottle_quantity>
-		<link>https://www.grandeadega.com.br/justino-s-madeira-3-anos-doce/p</link>
-		<inventory-count>4082</inventory-count>
-		<product-id>12058</product-id>
 	</product>
 	<product>
 		<product-name>Caves Messias Sparkling Messias Bairrada Brut Milésime NV</product-name>
@@ -540,7 +530,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/espumante-messias-bairrada-brut-milesime/p</link>
-		<inventory-count>1442</inventory-count>
+		<inventory-count>1445</inventory-count>
 		<product-id>12059</product-id>
 	</product>
 	<product>
@@ -590,7 +580,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/loios-branco/p</link>
-		<inventory-count>1632</inventory-count>
+		<inventory-count>1602</inventory-count>
 		<product-id>12112</product-id>
 	</product>
 	<product>
@@ -600,7 +590,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/loios-tinto/p</link>
-		<inventory-count>1003</inventory-count>
+		<inventory-count>1005</inventory-count>
 		<product-id>12113</product-id>
 	</product>
 	<product>
@@ -610,7 +600,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/marques-de-borba-colheita-branco/p</link>
-		<inventory-count>635</inventory-count>
+		<inventory-count>631</inventory-count>
 		<product-id>12114</product-id>
 	</product>
 	<product>
@@ -620,7 +610,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/marques-de-borba-colheita-tinto/p</link>
-		<inventory-count>11742</inventory-count>
+		<inventory-count>11745</inventory-count>
 		<product-id>12116</product-id>
 	</product>
 	<product>
@@ -630,7 +620,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/reguengos-doc-tinto/p</link>
-		<inventory-count>22593</inventory-count>
+		<inventory-count>22573</inventory-count>
 		<product-id>12118</product-id>
 	</product>
 	<product>
@@ -640,7 +630,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-reguengos-doc-branco/p</link>
-		<inventory-count>3</inventory-count>
+		<inventory-count>1</inventory-count>
 		<product-id>12119</product-id>
 	</product>
 	<product>
@@ -650,7 +640,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/monsaraz-doc-tinto/p</link>
-		<inventory-count>7756</inventory-count>
+		<inventory-count>7666</inventory-count>
 		<product-id>12120</product-id>
 	</product>
 	<product>
@@ -660,7 +650,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/reguengos-reserva-doc-tinto/p</link>
-		<inventory-count>9565</inventory-count>
+		<inventory-count>9563</inventory-count>
 		<product-id>12122</product-id>
 	</product>
 	<product>
@@ -680,7 +670,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/bom-juiz-reserva/p</link>
-		<inventory-count>8352</inventory-count>
+		<inventory-count>8334</inventory-count>
 		<product-id>12131</product-id>
 	</product>
 	<product>
@@ -765,12 +755,12 @@
 	</product>
 	<product>
 		<product-name>Tons de Duorum White 2024</product-name>
-		<price>29.9</price>
+		<price>9999876.0</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/tons-de-duorum-branco/p</link>
-		<inventory-count>23</inventory-count>
+		<inventory-count>-9</inventory-count>
 		<product-id>12174</product-id>
 	</product>
 	<product>
@@ -780,7 +770,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-joao-portugal-ramos-alvarinho-doc/p</link>
-		<inventory-count>72</inventory-count>
+		<inventory-count>70</inventory-count>
 		<product-id>12181</product-id>
 	</product>
 	<product>
@@ -790,7 +780,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/espumante-3b-rose/p</link>
-		<inventory-count>826</inventory-count>
+		<inventory-count>802</inventory-count>
 		<product-id>12569</product-id>
 	</product>
 	<product>
@@ -800,7 +790,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/joao-portugal-ramos-loureiro-vinho-verde/p</link>
-		<inventory-count>3277</inventory-count>
+		<inventory-count>3275</inventory-count>
 		<product-id>12189</product-id>
 	</product>
 	<product>
@@ -810,7 +800,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/reguengos-reserva-doc-branco/p</link>
-		<inventory-count>1687</inventory-count>
+		<inventory-count>1683</inventory-count>
 		<product-id>12192</product-id>
 	</product>
 	<product>
@@ -840,7 +830,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/reguengos-reserva-regia-colheita-branco/p</link>
-		<inventory-count>3620</inventory-count>
+		<inventory-count>3568</inventory-count>
 		<product-id>12205</product-id>
 	</product>
 	<product>
@@ -850,7 +840,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/regia-colheita-doc-alentejo-tinto/p</link>
-		<inventory-count>4193</inventory-count>
+		<inventory-count>4143</inventory-count>
 		<product-id>12209</product-id>
 	</product>
 	<product>
@@ -940,7 +930,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/marques-de-borba-vinhas-velhas-tinto/p</link>
-		<inventory-count>524</inventory-count>
+		<inventory-count>522</inventory-count>
 		<product-id>12230</product-id>
 	</product>
 	<product>
@@ -950,7 +940,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/pouca-roupa-branco/p</link>
-		<inventory-count>4780</inventory-count>
+		<inventory-count>4732</inventory-count>
 		<product-id>12231</product-id>
 	</product>
 	<product>
@@ -960,7 +950,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/pouca-roupa-rose/p</link>
-		<inventory-count>5437</inventory-count>
+		<inventory-count>5436</inventory-count>
 		<product-id>12232</product-id>
 	</product>
 	<product>
@@ -970,12 +960,12 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/pouca-roupa-tinto/p</link>
-		<inventory-count>4962</inventory-count>
+		<inventory-count>4928</inventory-count>
 		<product-id>12233</product-id>
 	</product>
 	<product>
 		<product-name>Filipa Pato Dinamica D.N.M.C Baga 2021  Red</product-name>
-		<price>171.9</price>
+		<price>180.9</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
@@ -1010,7 +1000,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/porto-messias-white-dry-seco/p</link>
-		<inventory-count>213</inventory-count>
+		<inventory-count>212</inventory-count>
 		<product-id>13000</product-id>
 	</product>
 	<product>
@@ -1100,7 +1090,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/marques-de-tomares-crianza/p</link>
-		<inventory-count>6015</inventory-count>
+		<inventory-count>6013</inventory-count>
 		<product-id>14016</product-id>
 	</product>
 	<product>
@@ -1140,7 +1130,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/marques-de-tomares-excellence/p</link>
-		<inventory-count>782</inventory-count>
+		<inventory-count>758</inventory-count>
 		<product-id>14050</product-id>
 	</product>
 	<product>
@@ -1150,7 +1140,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/pata-negra-oro/p</link>
-		<inventory-count>21846</inventory-count>
+		<inventory-count>21143</inventory-count>
 		<product-id>14055</product-id>
 	</product>
 	<product>
@@ -1230,7 +1220,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/chan-de-rosas-cuvee-especial-albarino/p</link>
-		<inventory-count>347</inventory-count>
+		<inventory-count>344</inventory-count>
 		<product-id>14142</product-id>
 	</product>
 	<product>
@@ -1270,7 +1260,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/numbered-edition-soto-de-onatil/p</link>
-		<inventory-count>5111</inventory-count>
+		<inventory-count>5098</inventory-count>
 		<product-id>14152</product-id>
 	</product>
 	<product>
@@ -1290,7 +1280,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/cohiba-atmosphere-reserva-doca-rioja/p</link>
-		<inventory-count>228</inventory-count>
+		<inventory-count>226</inventory-count>
 		<product-id>14154</product-id>
 	</product>
 	<product>
@@ -1360,7 +1350,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/pescador-blanc/p</link>
-		<inventory-count>130</inventory-count>
+		<inventory-count>136</inventory-count>
 		<product-id>14216</product-id>
 	</product>
 	<product>
@@ -1400,7 +1390,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/cave-de-cairanne-le-chene-noir/p</link>
-		<inventory-count>7</inventory-count>
+		<inventory-count>4</inventory-count>
 		<product-id>21472</product-id>
 	</product>
 	<product>
@@ -1530,7 +1520,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/santa-carolina-gran-reserva-cabernet-sauvignon/p</link>
-		<inventory-count>36</inventory-count>
+		<inventory-count>34</inventory-count>
 		<product-id>23042</product-id>
 	</product>
 	<product>
@@ -1540,7 +1530,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/carolina-reserva-sauvignon-blanc/p</link>
-		<inventory-count>165</inventory-count>
+		<inventory-count>164</inventory-count>
 		<product-id>23051</product-id>
 	</product>
 	<product>
@@ -1560,7 +1550,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/carolina-reserva-chardonnay/p</link>
-		<inventory-count>276</inventory-count>
+		<inventory-count>275</inventory-count>
 		<product-id>23075</product-id>
 	</product>
 	<product>
@@ -1570,7 +1560,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/carolina-reserva-pinot-noir/p</link>
-		<inventory-count>111</inventory-count>
+		<inventory-count>99</inventory-count>
 		<product-id>23082</product-id>
 	</product>
 	<product>
@@ -1590,7 +1580,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/alfredo-roca-fincas-chardonnay/p</link>
-		<inventory-count>1625</inventory-count>
+		<inventory-count>1540</inventory-count>
 		<product-id>24007</product-id>
 	</product>
 	<product>
@@ -1600,7 +1590,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/alfredo-roca-fincas-cabernet-sauvignon/p</link>
-		<inventory-count>1202</inventory-count>
+		<inventory-count>1166</inventory-count>
 		<product-id>24030</product-id>
 	</product>
 	<product>
@@ -1620,7 +1610,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/alfredo-roca-fincas-malbec/p</link>
-		<inventory-count>4358</inventory-count>
+		<inventory-count>4346</inventory-count>
 		<product-id>24033</product-id>
 	</product>
 	<product>
@@ -1650,7 +1640,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/alfredo-roca-fincas-pinot-noir/p</link>
-		<inventory-count>2502</inventory-count>
+		<inventory-count>2298</inventory-count>
 		<product-id>24064</product-id>
 	</product>
 	<product>
@@ -1690,7 +1680,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/gran-tannat-premium/p</link>
-		<inventory-count>204</inventory-count>
+		<inventory-count>202</inventory-count>
 		<product-id>25010</product-id>
 	</product>
 	<product>
@@ -1700,7 +1690,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/carlos-montes-tannat/p</link>
-		<inventory-count>24</inventory-count>
+		<inventory-count>18</inventory-count>
 		<product-id>25012</product-id>
 	</product>
 	<product>
@@ -1710,7 +1700,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/reserva-familiar-tannat/p</link>
-		<inventory-count>2126</inventory-count>
+		<inventory-count>2102</inventory-count>
 		<product-id>25013</product-id>
 	</product>
 	<product>
@@ -1730,7 +1720,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/elegido-tannat-e-merlot/p</link>
-		<inventory-count>3275</inventory-count>
+		<inventory-count>3233</inventory-count>
 		<product-id>25017</product-id>
 	</product>
 	<product>
@@ -1750,7 +1740,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/criado-en-roble-blend-15-meses/p</link>
-		<inventory-count>57</inventory-count>
+		<inventory-count>51</inventory-count>
 		<product-id>25030</product-id>
 	</product>
 	<product>
@@ -1820,7 +1810,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/nederburg-the-winemasters-reserve-pinotage/p</link>
-		<inventory-count>546</inventory-count>
+		<inventory-count>548</inventory-count>
 		<product-id>51031</product-id>
 	</product>
 	<product>
@@ -1860,7 +1850,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/nederburg-pinotage/p</link>
-		<inventory-count>2679</inventory-count>
+		<inventory-count>2579</inventory-count>
 		<product-id>51047</product-id>
 	</product>
 	<product>
@@ -2010,7 +2000,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/bodega-vieja-cabernet-sauvignon/p</link>
-		<inventory-count>8571</inventory-count>
+		<inventory-count>8518</inventory-count>
 		<product-id>14201</product-id>
 	</product>
 	<product>
@@ -2020,7 +2010,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/bodega-vieja-suave-tinto/p</link>
-		<inventory-count>5406</inventory-count>
+		<inventory-count>5346</inventory-count>
 		<product-id>14204</product-id>
 	</product>
 	<product>
@@ -2035,7 +2025,7 @@
 	</product>
 	<product>
 		<product-name>Filipa Pato Dinamica D.N.M.C. White 2022</product-name>
-		<price>171.9</price>
+		<price>180.9</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
@@ -2050,7 +2040,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/porto-burton-s-tawny/p</link>
-		<inventory-count>276</inventory-count>
+		<inventory-count>275</inventory-count>
 		<product-id>12315</product-id>
 	</product>
 	<product>
@@ -2110,7 +2100,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/la-vina-de-sofia-albarino-clasico/p</link>
-		<inventory-count>23</inventory-count>
+		<inventory-count>18</inventory-count>
 		<product-id>14176</product-id>
 	</product>
 	<product>
@@ -2140,7 +2130,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/nuestro-verdejo/p</link>
-		<inventory-count>628</inventory-count>
+		<inventory-count>624</inventory-count>
 		<product-id>14159</product-id>
 	</product>
 	<product>
@@ -2190,7 +2180,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/petit-vega-8-meses/p</link>
-		<inventory-count>2608</inventory-count>
+		<inventory-count>2600</inventory-count>
 		<product-id>14173</product-id>
 	</product>
 	<product>
@@ -2200,7 +2190,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-petit-vega-28-meses/p</link>
-		<inventory-count>1530</inventory-count>
+		<inventory-count>1528</inventory-count>
 		<product-id>14175</product-id>
 	</product>
 	<product>
@@ -2250,7 +2240,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/saludas-cosecha-tinto/p</link>
-		<inventory-count>14279</inventory-count>
+		<inventory-count>14273</inventory-count>
 		<product-id>14185</product-id>
 	</product>
 	<product>
@@ -2260,7 +2250,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/99-rosas-rose-edicao-especial-e-limitada/p</link>
-		<inventory-count>205</inventory-count>
+		<inventory-count>187</inventory-count>
 		<product-id>14230</product-id>
 	</product>
 	<product>
@@ -2310,7 +2300,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/veuve-du-vernay-ice/p</link>
-		<inventory-count>100</inventory-count>
+		<inventory-count>88</inventory-count>
 		<product-id>21406</product-id>
 	</product>
 	<product>
@@ -2460,7 +2450,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/moillard-bourgogne-aligote-long-du-bois/p</link>
-		<inventory-count>294</inventory-count>
+		<inventory-count>288</inventory-count>
 		<product-id>23264</product-id>
 	</product>
 	<product>
@@ -2470,7 +2460,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/moillard-beaujolais-les-malvaux/p</link>
-		<inventory-count>408</inventory-count>
+		<inventory-count>405</inventory-count>
 		<product-id>23266</product-id>
 	</product>
 	<product>
@@ -2500,7 +2490,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/moillard-cote-de-nuits-villages-vieilles-vignes/p</link>
-		<inventory-count>114</inventory-count>
+		<inventory-count>113</inventory-count>
 		<product-id>23272</product-id>
 	</product>
 	<product>
@@ -2540,7 +2530,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/moillard-morgon-les-collines-cru-de-beaujolais-/p</link>
-		<inventory-count>282</inventory-count>
+		<inventory-count>276</inventory-count>
 		<product-id>23280</product-id>
 	</product>
 	<product>
@@ -2580,7 +2570,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/moillard-pouilly-fuisse-sous-la-grotte/p</link>
-		<inventory-count>54</inventory-count>
+		<inventory-count>53</inventory-count>
 		<product-id>23285</product-id>
 	</product>
 	<product>
@@ -2600,7 +2590,7 @@
 		<bottle_size>5 L</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/bag-in-box-olaria-tinto/p</link>
-		<inventory-count>5779</inventory-count>
+		<inventory-count>5513</inventory-count>
 		<product-id>12132</product-id>
 	</product>
 	<product>
@@ -2610,7 +2600,7 @@
 		<bottle_size>5 L</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/bag-in-box-olaria-branco/p</link>
-		<inventory-count>4973</inventory-count>
+		<inventory-count>4913</inventory-count>
 		<product-id>12149</product-id>
 	</product>
 	<product>
@@ -2660,7 +2650,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/terras-d-el-rei-tinto/p</link>
-		<inventory-count>27971</inventory-count>
+		<inventory-count>27957</inventory-count>
 		<product-id>12124</product-id>
 	</product>
 	<product>
@@ -2670,7 +2660,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/santa-carolina-reservado-cabernet-sauvignon/p</link>
-		<inventory-count>163841</inventory-count>
+		<inventory-count>163840</inventory-count>
 		<product-id>23001</product-id>
 	</product>
 	<product>
@@ -2680,7 +2670,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/messias-beiras-tinto/p</link>
-		<inventory-count>8459</inventory-count>
+		<inventory-count>8444</inventory-count>
 		<product-id>12001</product-id>
 	</product>
 	<product>
@@ -2700,7 +2690,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/olaria-suave-branco/p</link>
-		<inventory-count>13887</inventory-count>
+		<inventory-count>13884</inventory-count>
 		<product-id>12176</product-id>
 	</product>
 	<product>
@@ -2710,7 +2700,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/olaria-suave-tinto/p</link>
-		<inventory-count>63353</inventory-count>
+		<inventory-count>63337</inventory-count>
 		<product-id>12172</product-id>
 	</product>
 	<product>
@@ -2720,7 +2710,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/olaria-suave-rose/p</link>
-		<inventory-count>6157</inventory-count>
+		<inventory-count>6144</inventory-count>
 		<product-id>12244</product-id>
 	</product>
 	<product>
@@ -2900,7 +2890,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/nebbiolo-d-alba-doc-truffle-hunter-leda/p</link>
-		<inventory-count>52</inventory-count>
+		<inventory-count>50</inventory-count>
 		<product-id>12322</product-id>
 	</product>
 	<product>
@@ -2960,7 +2950,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/espumante-beau-rocher-brut-branco/p</link>
-		<inventory-count>2618</inventory-count>
+		<inventory-count>2603</inventory-count>
 		<product-id>23312</product-id>
 	</product>
 	<product>
@@ -3030,7 +3020,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/-sperone-prosecco-doc-rose-millesimato/p</link>
-		<inventory-count>51</inventory-count>
+		<inventory-count>50</inventory-count>
 		<product-id>14196</product-id>
 	</product>
 	<product>
@@ -3080,7 +3070,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/altura-malbec/p</link>
-		<inventory-count>363</inventory-count>
+		<inventory-count>310</inventory-count>
 		<product-id>11561</product-id>
 	</product>
 	<product>
@@ -3090,7 +3080,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/altura-cabernet-franc/p</link>
-		<inventory-count>112</inventory-count>
+		<inventory-count>109</inventory-count>
 		<product-id>11562</product-id>
 	</product>
 	<product>
@@ -3100,7 +3090,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/norton-reserva-malbec/p</link>
-		<inventory-count>208</inventory-count>
+		<inventory-count>166</inventory-count>
 		<product-id>11563</product-id>
 	</product>
 	<product>
@@ -3120,7 +3110,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/norton-reserva-chardonnay/p</link>
-		<inventory-count>23</inventory-count>
+		<inventory-count>21</inventory-count>
 		<product-id>11565</product-id>
 	</product>
 	<product>
@@ -3130,7 +3120,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-norton-d-o-c--malbec/p</link>
-		<inventory-count>13301</inventory-count>
+		<inventory-count>13262</inventory-count>
 		<product-id>11566</product-id>
 	</product>
 	<product>
@@ -3170,7 +3160,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/sexy-fish-malbec/p</link>
-		<inventory-count>3316</inventory-count>
+		<inventory-count>3259</inventory-count>
 		<product-id>11570</product-id>
 	</product>
 	<product>
@@ -3180,7 +3170,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/sexy-fish-cabernet-franc/p</link>
-		<inventory-count>945</inventory-count>
+		<inventory-count>940</inventory-count>
 		<product-id>11571</product-id>
 	</product>
 	<product>
@@ -3210,7 +3200,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/porteno-malbec/p</link>
-		<inventory-count>8267</inventory-count>
+		<inventory-count>8185</inventory-count>
 		<product-id>11575</product-id>
 	</product>
 	<product>
@@ -3220,7 +3210,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/porteno-cabernet-sauvignon/p</link>
-		<inventory-count>2913</inventory-count>
+		<inventory-count>2866</inventory-count>
 		<product-id>11576</product-id>
 	</product>
 	<product>
@@ -3230,7 +3220,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/porteno-chardonnay/p</link>
-		<inventory-count>2664</inventory-count>
+		<inventory-count>2652</inventory-count>
 		<product-id>11577</product-id>
 	</product>
 	<product>
@@ -3240,7 +3230,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/porteno-suave-e-refrescante-tinto/p</link>
-		<inventory-count>1895</inventory-count>
+		<inventory-count>1889</inventory-count>
 		<product-id>11579</product-id>
 	</product>
 	<product>
@@ -3250,7 +3240,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/sexy-fish-blanc-de-blancs/p</link>
-		<inventory-count>2248</inventory-count>
+		<inventory-count>2242</inventory-count>
 		<product-id>11572</product-id>
 	</product>
 	<product>
@@ -3330,7 +3320,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/voga-pinot-grigio-delle-venezie-doc/p</link>
-		<inventory-count>1403</inventory-count>
+		<inventory-count>1402</inventory-count>
 		<product-id>11524</product-id>
 	</product>
 	<product>
@@ -3360,7 +3350,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/espumante-belvino-rose-brut/p</link>
-		<inventory-count>2536</inventory-count>
+		<inventory-count>2480</inventory-count>
 		<product-id>11527</product-id>
 	</product>
 	<product>
@@ -3390,7 +3380,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/norton-altura-pinot-noir/p</link>
-		<inventory-count>30</inventory-count>
+		<inventory-count>27</inventory-count>
 		<product-id>11581</product-id>
 	</product>
 	<product>
@@ -3400,7 +3390,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/espumante-101-bubbles-extra-brut/p</link>
-		<inventory-count>885</inventory-count>
+		<inventory-count>871</inventory-count>
 		<product-id>11582</product-id>
 	</product>
 	<product>
@@ -3480,7 +3470,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/veuve-du-vernay-edition-limitee-brut/p</link>
-		<inventory-count>8</inventory-count>
+		<inventory-count>7</inventory-count>
 		<product-id>21408</product-id>
 	</product>
 	<product>
@@ -3580,7 +3570,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/sexy-fish-rose/p</link>
-		<inventory-count>2561</inventory-count>
+		<inventory-count>2554</inventory-count>
 		<product-id>11588</product-id>
 	</product>
 	<product>
@@ -3600,7 +3590,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/espumante-moillard-cremant-de-bourgogne-brut-prestige-chardonnay-2019/p</link>
-		<inventory-count>828</inventory-count>
+		<inventory-count>738</inventory-count>
 		<product-id>23329</product-id>
 	</product>
 	<product>
@@ -3920,7 +3910,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/espumante-belvino-grillo-brut/p</link>
-		<inventory-count>4163</inventory-count>
+		<inventory-count>4122</inventory-count>
 		<product-id>11536</product-id>
 	</product>
 	<product>
@@ -4050,7 +4040,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-reguengos-selecao-branco-alentejo-doc/p</link>
-		<inventory-count>108</inventory-count>
+		<inventory-count>103</inventory-count>
 		<product-id>12349</product-id>
 	</product>
 	<product>
@@ -4060,7 +4050,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-reguengos-selecao-tinto-alentejo-doc/p</link>
-		<inventory-count>229</inventory-count>
+		<inventory-count>246</inventory-count>
 		<product-id>12348</product-id>
 	</product>
 	<product>
@@ -4070,7 +4060,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/ramos-reserva-tinto/p</link>
-		<inventory-count>27</inventory-count>
+		<inventory-count>25</inventory-count>
 		<product-id>12262</product-id>
 	</product>
 	<product>
@@ -4080,7 +4070,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-pardalito-doc-vinho-verde/p</link>
-		<inventory-count>24416</inventory-count>
+		<inventory-count>24387</inventory-count>
 		<product-id>13057</product-id>
 	</product>
 	<product>
@@ -4100,7 +4090,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-moscatel-de-setubal-doc-adega-de-palmela/p</link>
-		<inventory-count>418</inventory-count>
+		<inventory-count>416</inventory-count>
 		<product-id>12290</product-id>
 	</product>
 	<product>
@@ -4190,7 +4180,7 @@
 		<bottle_size>375 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-norton-select-malbec-375-ml/p</link>
-		<inventory-count>8</inventory-count>
+		<inventory-count>4</inventory-count>
 		<product-id>11591</product-id>
 	</product>
 	<product>
@@ -4200,7 +4190,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-porteno-torrontes/p</link>
-		<inventory-count>10</inventory-count>
+		<inventory-count>1</inventory-count>
 		<product-id>11589</product-id>
 	</product>
 	<product>
@@ -4280,7 +4270,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-corbelli-blush-pinot-grigio-rose-igt/p</link>
-		<inventory-count>2622</inventory-count>
+		<inventory-count>2621</inventory-count>
 		<product-id>11854</product-id>
 	</product>
 	<product>
@@ -4310,7 +4300,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-reserva-familiar-sauvignon-blanc/p</link>
-		<inventory-count>513</inventory-count>
+		<inventory-count>512</inventory-count>
 		<product-id>35085</product-id>
 	</product>
 	<product>
@@ -4320,7 +4310,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-montes-toscanini-crudo-roble-blend-n--6/p</link>
-		<inventory-count>259</inventory-count>
+		<inventory-count>253</inventory-count>
 		<product-id>35087</product-id>
 	</product>
 	<product>
@@ -4330,7 +4320,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-montes-toscanini-crudo-tannat-n--1/p</link>
-		<inventory-count>18</inventory-count>
+		<inventory-count>12</inventory-count>
 		<product-id>35088</product-id>
 	</product>
 	<product>
@@ -4340,7 +4330,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/espumante-cava-pata-negra-brut/p</link>
-		<inventory-count>1035</inventory-count>
+		<inventory-count>999</inventory-count>
 		<product-id>14235</product-id>
 	</product>
 	<product>
@@ -4490,7 +4480,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-caliterra-reserva-cabernet-sauvignon/p</link>
-		<inventory-count>151</inventory-count>
+		<inventory-count>139</inventory-count>
 		<product-id>23500</product-id>
 	</product>
 	<product>
@@ -4500,7 +4490,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-caliterra-reserva-carmenere/p</link>
-		<inventory-count>497</inventory-count>
+		<inventory-count>485</inventory-count>
 		<product-id>23502</product-id>
 	</product>
 	<product>
@@ -4510,7 +4500,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-caliterra-reserva-merlot/p</link>
-		<inventory-count>160</inventory-count>
+		<inventory-count>154</inventory-count>
 		<product-id>23503</product-id>
 	</product>
 	<product>
@@ -4520,7 +4510,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-caliterra-reserva-sauvignon-blanc/p</link>
-		<inventory-count>335</inventory-count>
+		<inventory-count>323</inventory-count>
 		<product-id>23504</product-id>
 	</product>
 	<product>
@@ -4540,7 +4530,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-caliterra-reserva-syrah-rose/p</link>
-		<inventory-count>178</inventory-count>
+		<inventory-count>166</inventory-count>
 		<product-id>23505</product-id>
 	</product>
 	<product>
@@ -4580,7 +4570,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-caliterra-tributo-gran-reserva-chardonnay/p</link>
-		<inventory-count>20</inventory-count>
+		<inventory-count>8</inventory-count>
 		<product-id>23513</product-id>
 	</product>
 	<product>
@@ -4750,7 +4740,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-moillard-chorey-les-beaune-vieilles-vignes-2020/p</link>
-		<inventory-count>174</inventory-count>
+		<inventory-count>168</inventory-count>
 		<product-id>23379</product-id>
 	</product>
 	<product>
@@ -4810,7 +4800,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-pardalito-rose/p</link>
-		<inventory-count>5687</inventory-count>
+		<inventory-count>5684</inventory-count>
 		<product-id>13058</product-id>
 	</product>
 	<product>
@@ -4880,7 +4870,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/espumante-voga-moscato-gold-edition/p</link>
-		<inventory-count>23</inventory-count>
+		<inventory-count>22</inventory-count>
 		<product-id>11531</product-id>
 	</product>
 	<product>
@@ -5060,7 +5050,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-santa-carolina-estelar-57-red-blend/p</link>
-		<inventory-count>19</inventory-count>
+		<inventory-count>8</inventory-count>
 		<product-id>23140</product-id>
 	</product>
 	<product>
@@ -5170,7 +5160,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-santa-carolina-reservado-rose/p</link>
-		<inventory-count>22903</inventory-count>
+		<inventory-count>22782</inventory-count>
 		<product-id>23080</product-id>
 	</product>
 	<product>
@@ -5210,7 +5200,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-moillard-petit-chablis-les-grappes-dor/p</link>
-		<inventory-count>1938</inventory-count>
+		<inventory-count>1935</inventory-count>
 		<product-id>23382</product-id>
 	</product>
 	<product>
@@ -5220,7 +5210,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-tabali-talinay-sauvignon-blanc/p</link>
-		<inventory-count>208</inventory-count>
+		<inventory-count>207</inventory-count>
 		<product-id>23528</product-id>
 	</product>
 	<product>
@@ -5250,7 +5240,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-olaria-meio-seco-tinto/p</link>
-		<inventory-count>7535</inventory-count>
+		<inventory-count>7536</inventory-count>
 		<product-id>12562</product-id>
 	</product>
 	<product>
@@ -5270,7 +5260,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-olaria-meio-seco-branco/p</link>
-		<inventory-count>5022</inventory-count>
+		<inventory-count>5010</inventory-count>
 		<product-id>12560</product-id>
 	</product>
 	<product>
@@ -5285,12 +5275,12 @@
 	</product>
 	<product>
 		<product-name>Bodegas Montes Toscanini Montes Toscanini Criado en Roble Albariño 2024  White</product-name>
-		<price>129.9</price>
+		<price>9999876.0</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-montes-toscanini-criado-en-roble-albarino/p</link>
-		<inventory-count>6</inventory-count>
+		<inventory-count>0</inventory-count>
 		<product-id>35090</product-id>
 	</product>
 	<product>
@@ -5340,7 +5330,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-michele-chiarlo-barbera-dasti-docg-palas/p</link>
-		<inventory-count>5</inventory-count>
+		<inventory-count>4</inventory-count>
 		<product-id>21727</product-id>
 	</product>
 	<product>
@@ -5370,7 +5360,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-alfredo-roca-alma-inquieta-white-malbec/p</link>
-		<inventory-count>12</inventory-count>
+		<inventory-count>10</inventory-count>
 		<product-id>24138</product-id>
 	</product>
 	<product>
@@ -5380,7 +5370,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-alfredo-roca-alma-inquieta-cabernet-franc/p</link>
-		<inventory-count>12</inventory-count>
+		<inventory-count>2</inventory-count>
 		<product-id>24139</product-id>
 	</product>
 	<product>
@@ -5410,7 +5400,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-pata-negra-oro-branco/p</link>
-		<inventory-count>2946</inventory-count>
+		<inventory-count>2943</inventory-count>
 		<product-id>14090</product-id>
 	</product>
 	<product>
@@ -5420,7 +5410,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-pata-negra-oro-rose/p</link>
-		<inventory-count>744</inventory-count>
+		<inventory-count>743</inventory-count>
 		<product-id>14091</product-id>
 	</product>
 	<product>
@@ -5530,7 +5520,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/luccarelli-primitivo-di-manduria-old-vines-dop/p</link>
-		<inventory-count>330</inventory-count>
+		<inventory-count>323</inventory-count>
 		<product-id>11444</product-id>
 	</product>
 	<product>
@@ -5630,7 +5620,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/marques-de-tomares-reserva/p</link>
-		<inventory-count>380</inventory-count>
+		<inventory-count>376</inventory-count>
 		<product-id>14031</product-id>
 	</product>
 	<product>
@@ -5810,7 +5800,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/nederburg-rose/p</link>
-		<inventory-count>3259</inventory-count>
+		<inventory-count>3257</inventory-count>
 		<product-id>51044</product-id>
 	</product>
 	<product>
@@ -5850,7 +5840,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/bodega-vieja-sauvignon-blanc/p</link>
-		<inventory-count>5459</inventory-count>
+		<inventory-count>5408</inventory-count>
 		<product-id>14200</product-id>
 	</product>
 	<product>
@@ -5860,7 +5850,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/porto-burton-s-ruby/p</link>
-		<inventory-count>117</inventory-count>
+		<inventory-count>112</inventory-count>
 		<product-id>12314</product-id>
 	</product>
 	<product>
@@ -5930,7 +5920,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/99-rosas-tinto-edicao-especial-e-limitada/p</link>
-		<inventory-count>137</inventory-count>
+		<inventory-count>119</inventory-count>
 		<product-id>14231</product-id>
 	</product>
 	<product>
@@ -5990,7 +5980,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/moillard-beaujolais-village-la-roche/p</link>
-		<inventory-count>288</inventory-count>
+		<inventory-count>273</inventory-count>
 		<product-id>23267</product-id>
 	</product>
 	<product>
@@ -6000,7 +5990,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/moillard-chablis-coquillage-branco/p</link>
-		<inventory-count>2892</inventory-count>
+		<inventory-count>2891</inventory-count>
 		<product-id>23268</product-id>
 	</product>
 	<product>
@@ -6010,7 +6000,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/moillard-fleurie-cru-le-vallon/p</link>
-		<inventory-count>294</inventory-count>
+		<inventory-count>285</inventory-count>
 		<product-id>23273</product-id>
 	</product>
 	<product>
@@ -6080,7 +6070,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/porteno-suave-e-refrescante-branco/p</link>
-		<inventory-count>2019</inventory-count>
+		<inventory-count>2016</inventory-count>
 		<product-id>11578</product-id>
 	</product>
 	<product>
@@ -6110,7 +6100,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/montes-toscanini-reserva-familiar-cabernet-sauvignon/p</link>
-		<inventory-count>28</inventory-count>
+		<inventory-count>24</inventory-count>
 		<product-id>35084</product-id>
 	</product>
 	<product>
@@ -6170,7 +6160,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/domaine-virginie-thunevin-bordeaux/p</link>
-		<inventory-count>38</inventory-count>
+		<inventory-count>34</inventory-count>
 		<product-id>23354</product-id>
 	</product>
 	<product>
@@ -6200,7 +6190,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/santa-carolina-reservado-cabernet-sauvignon-merlot-edicao-especial/p</link>
-		<inventory-count>36606</inventory-count>
+		<inventory-count>36604</inventory-count>
 		<product-id>23096</product-id>
 	</product>
 	<product>
@@ -6230,7 +6220,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-santa-carolina-reservado-shiraz/p</link>
-		<inventory-count>9108</inventory-count>
+		<inventory-count>9095</inventory-count>
 		<product-id>23077</product-id>
 	</product>
 	<product>
@@ -6260,7 +6250,7 @@
 		<bottle_size>375 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-cachao-doc-douro-375-ml/p</link>
-		<inventory-count>180</inventory-count>
+		<inventory-count>182</inventory-count>
 		<product-id>12011</product-id>
 	</product>
 	<product>
@@ -6270,7 +6260,7 @@
 		<bottle_size>375 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-chateau-doisy-daene-sauternes-2022/p</link>
-		<inventory-count>4</inventory-count>
+		<inventory-count>3</inventory-count>
 		<product-id>21560</product-id>
 	</product>
 	<product>
@@ -6310,7 +6300,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-chateau-labat-2019/p</link>
-		<inventory-count>193</inventory-count>
+		<inventory-count>191</inventory-count>
 		<product-id>21570</product-id>
 	</product>
 	<product>
@@ -6390,7 +6380,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/espumante-prosecco-doc-branco-sperone/p</link>
-		<inventory-count>5</inventory-count>
+		<inventory-count>4</inventory-count>
 		<product-id>14194</product-id>
 	</product>
 	<product>
@@ -6430,7 +6420,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/espumante-bottega-petalo-il-vino-dell--amore-moscato/p</link>
-		<inventory-count>358</inventory-count>
+		<inventory-count>356</inventory-count>
 		<product-id>21742</product-id>
 	</product>
 	<product>
@@ -6490,7 +6480,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/espumante-viva-la-vida-moscatel-rose/p</link>
-		<inventory-count>22</inventory-count>
+		<inventory-count>19</inventory-count>
 		<product-id>25674</product-id>
 	</product>
 	<product>
@@ -6610,7 +6600,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-basco-loco-alvarinho/p</link>
-		<inventory-count>262</inventory-count>
+		<inventory-count>261</inventory-count>
 		<product-id>25693</product-id>
 	</product>
 	<product>
@@ -6660,7 +6650,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-bodega-iribarrem-reserva-chardonnay/p</link>
-		<inventory-count>569</inventory-count>
+		<inventory-count>567</inventory-count>
 		<product-id>25683</product-id>
 	</product>
 	<product>
@@ -6720,7 +6710,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/frisante-bacio-della-luna/p</link>
-		<inventory-count>10186</inventory-count>
+		<inventory-count>10185</inventory-count>
 		<product-id>25678</product-id>
 	</product>
 	<product>
@@ -6730,7 +6720,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-porto-intermares-ruby/p</link>
-		<inventory-count>1102</inventory-count>
+		<inventory-count>1096</inventory-count>
 		<product-id>12068</product-id>
 	</product>
 	<product>
@@ -6740,7 +6730,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-porto-intermares-tawny/p</link>
-		<inventory-count>1601</inventory-count>
+		<inventory-count>1595</inventory-count>
 		<product-id>12069</product-id>
 	</product>
 	<product>
@@ -6830,7 +6820,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/frisante-lambrusco-villa-fabrizia-amabile-rose/p</link>
-		<inventory-count>1740</inventory-count>
+		<inventory-count>1737</inventory-count>
 		<product-id>11558</product-id>
 	</product>
 	<product>
@@ -6850,7 +6840,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-santa-carolina-reservado-chardonnay/p</link>
-		<inventory-count>27556</inventory-count>
+		<inventory-count>27409</inventory-count>
 		<product-id>23078</product-id>
 	</product>
 	<product>
@@ -6860,7 +6850,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-santa-carolina-reservado-sauvignon-blanc/p</link>
-		<inventory-count>22507</inventory-count>
+		<inventory-count>22343</inventory-count>
 		<product-id>23000</product-id>
 	</product>
 	<product>
@@ -6890,7 +6880,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-alfredo-roca-parcelas-originales-malbec/p</link>
-		<inventory-count>154</inventory-count>
+		<inventory-count>153</inventory-count>
 		<product-id>25031</product-id>
 	</product>
 	<product>
@@ -6900,7 +6890,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-alfredo-roca-parcelas-originales-glera/p</link>
-		<inventory-count>38</inventory-count>
+		<inventory-count>36</inventory-count>
 		<product-id>25033</product-id>
 	</product>
 	<product>
@@ -6960,7 +6950,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/espumante-viva-la-vida-zero-alcool/p</link>
-		<inventory-count>20</inventory-count>
+		<inventory-count>12</inventory-count>
 		<product-id>25677</product-id>
 	</product>
 	<product>
@@ -7104,23 +7094,13 @@
 		<product-id>25694</product-id>
 	</product>
 	<product>
-		<product-name>Sparkling Veuve du Vernay Brut Blue (Edição Limitada) NV</product-name>
-		<price>9999876.0</price>
-		<quantity-is-minimum>false</quantity-is-minimum>
-		<bottle_size>750 ml</bottle_size>
-		<bottle_quantity>1</bottle_quantity>
-		<link>https://www.grandeadega.com.br/espumante-veuve-du-vernay-brut-blue-edicao-limitada/p</link>
-		<inventory-count>0</inventory-count>
-		<product-id>21282</product-id>
-	</product>
-	<product>
 		<product-name>Sparkling Veuve du Vernay Brut Rosé (Edição Limitada) NV</product-name>
 		<price>81.9</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/espumante-veuve-du-vernay-brut-rose-edicao-limitada/p</link>
-		<inventory-count>75</inventory-count>
+		<inventory-count>74</inventory-count>
 		<product-id>21284</product-id>
 	</product>
 	<product>
@@ -7140,7 +7120,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-camille-cayran-gigondas-aoc/p</link>
-		<inventory-count>25</inventory-count>
+		<inventory-count>22</inventory-count>
 		<product-id>21497</product-id>
 	</product>
 	<product>
@@ -7200,7 +7180,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-bellosguardo-chianti-docg/p</link>
-		<inventory-count>162</inventory-count>
+		<inventory-count>136</inventory-count>
 		<product-id>11035</product-id>
 	</product>
 	<product>
@@ -7310,7 +7290,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/petit-vega-18-meses/p</link>
-		<inventory-count>3007</inventory-count>
+		<inventory-count>3004</inventory-count>
 		<product-id>14174</product-id>
 	</product>
 	<product>
@@ -7320,7 +7300,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-caliterra-tributo-gran-reserva-mezcla-tinta/p</link>
-		<inventory-count>6</inventory-count>
+		<inventory-count>3</inventory-count>
 		<product-id>23551</product-id>
 	</product>
 	<product>
@@ -7340,7 +7320,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-le-clos-de-reynon-2022/p</link>
-		<inventory-count>1890</inventory-count>
+		<inventory-count>1888</inventory-count>
 		<product-id>21574</product-id>
 	</product>
 	<product>
@@ -7390,7 +7370,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/mimosa-opera-prima/p</link>
-		<inventory-count>3081</inventory-count>
+		<inventory-count>2958</inventory-count>
 		<product-id>35092</product-id>
 	</product>
 	<product>
@@ -7450,7 +7430,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/jerez-fernando-de-castilla-pedro-ximenez-classic-sweet-sherry/p</link>
-		<inventory-count>31</inventory-count>
+		<inventory-count>30</inventory-count>
 		<product-id>14237</product-id>
 	</product>
 	<product>
@@ -7470,7 +7450,7 @@
 		<bottle_size>700 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/carlos-i-brandy-de-jerez-solera-gran-reserva/p</link>
-		<inventory-count>11</inventory-count>
+		<inventory-count>5</inventory-count>
 		<product-id>17072</product-id>
 	</product>
 	<product>
